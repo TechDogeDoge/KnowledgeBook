@@ -1,5 +1,7 @@
+---
+description: A personal knowledge book of computer science
+---
+
 # KnowledgeBook
 
-{% content-ref url="algorithm/jiu-zhang-suan-fa-ji-chu-l1-intro.md" %}
-[jiu-zhang-suan-fa-ji-chu-l1-intro.md](algorithm/jiu-zhang-suan-fa-ji-chu-l1-intro.md)
-{% endcontent-ref %}
+:tada::tada::tada:

@@ -1,5 +1,5 @@
 ---
-description: Lesson 1 for Algorithm
+description: Lesson 6 BFS DFS
 ---
 
 # BFS DFS
