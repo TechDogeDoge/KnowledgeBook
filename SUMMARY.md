@@ -20,5 +20,3 @@
 * [Git](other/git.md)
 
 ## Basic Knowledge
-
-* [计算机网络](basic knowledge/computer-network.md)
