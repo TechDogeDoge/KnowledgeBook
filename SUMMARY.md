@@ -14,3 +14,11 @@
 * [其他](algorithm/others.md)
 
 ## Data Structure
+
+## Other
+
+* [Git](other/git.md)
+
+## Basic Knowledge
+
+* [计算机网络](basic lnowledge/计算机网络.md)
