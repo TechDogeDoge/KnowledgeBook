@@ -21,4 +21,4 @@
 
 ## Basic Knowledge
 
-* [计算机网络](basic knowledge/计算机网络.md)
+* [计算机网络](basic knowledge/computer-network.md)
